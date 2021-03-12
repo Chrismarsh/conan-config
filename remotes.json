@@ -1,0 +1,19 @@
+{
+ "remotes": [
+  {
+   "name": "conan-center",
+   "url": "https://conan.bintray.com",
+   "verify_ssl": true
+  },
+  {
+   "name": "bincrafters",
+   "url": "https://api.bintray.com/conan/bincrafters/public-conan",
+   "verify_ssl": true
+  },
+  {
+   "name": "CHM",
+   "url": "https://api.bintray.com/conan/chrismarsh/CHM",
+   "verify_ssl": true
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+include(default)
+
+[options]
+trilinos:with_mpi=False
+trilinos:with_openmp=False
+boost:without_mpi=True
+
+[build_requires]
+
+[env]
