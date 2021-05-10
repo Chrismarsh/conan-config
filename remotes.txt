@@ -1,3 +1,2 @@
 conan-center https://conan.bintray.com
 bincrafters https://api.bintray.com/conan/bincrafters/public-conan
-CHM https://api.bintray.com/conan/chrismarsh/CHM
