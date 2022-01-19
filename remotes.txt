@@ -1,2 +1,2 @@
-conan-center https://conan.bintray.com
+conan-center https://center.conan.io
 bincrafters https://bincrafters.jfrog.io/artifactory/api/conan/public-conan
