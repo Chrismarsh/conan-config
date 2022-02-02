@@ -1,5 +1,8 @@
 include(default)
 
+[settings]
+compiler.cppstd=14
+
 [options]
 trilinos:with_mpi=False
 trilinos:with_openmp=False
